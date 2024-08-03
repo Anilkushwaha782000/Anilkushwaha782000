@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a Software Design Engineer with a passion for 
 
 ## 🖼️ Showcase
 
-![My Work](https://anilkushwahaportfolio.netlify.app/)
+(https://anilkushwahaportfolio.netlify.app/)
 
 ## 💬 Let's Connect!
 
