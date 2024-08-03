@@ -64,9 +64,8 @@ Welcome to my GitHub profile! I'm a Software Design Engineer with a passion for 
 
 ## 💬 Let's Connect!
 
-Feel free to [send me a message](mailto:anilkushwaha1297@gmail.com) if you want to discuss anything related to technology, software development, or just to say hi!
+Feel free to [send me a message](https://www.linkedin.com/in/anil-kushwaha-843689215/) if you want to discuss anything related to technology, software development, or just to say hi!
 
 ---
 
-*Note: This README is automatically generated. To update it, edit your profile README on GitHub.*
 
