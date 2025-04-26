@@ -1,6 +1,9 @@
-# Hi there, I'm Anil 👋
+👋 Hello, I'm Anil!
 
-Welcome to my GitHub profile! I'm a Software Design Engineer with a passion for Front End Development. Here, you can explore my work, projects, and more about what drives me in the world of technology.
+Welcome to my GitHub!
+
+I'm a Senior Software Design Engineer passionate about crafting modern, scalable, and responsive web applications.
+Here you'll find my projects, passions, and the skills I'm continuously sharpening to stay ahead in the tech world. 🚀
 
 
 ## 🚀 About Me
@@ -52,11 +55,15 @@ Welcome to my GitHub profile! I'm a Software Design Engineer with a passion for 
 - [LinkedIn](https://www.linkedin.com/in/anil-kushwaha-843689215/)
 - [Personal Website](https://anilkushwahaportfolio.netlify.app/)
 
-## 🎯 Goals
+## 🎯 My Current Goals
 
-- 🔍 Explore new technologies
-- 🤝 Collaborate on open-source projects
-- 📚 Contribute to the developer community
+🚀 Expand expertise in MERN Stack and modern backend frameworks
+
+✨ Contribute actively to open-source projects
+
+🎨 Design highly intuitive and responsive UI/UX experiences
+
+💡 Explore AI-powered and Cloud-native application development
 
 ## 🖼️ Showcase
 
@@ -66,6 +73,7 @@ Welcome to my GitHub profile! I'm a Software Design Engineer with a passion for 
 
 Feel free to [send me a message](https://www.linkedin.com/in/anil-kushwaha-843689215/) if you want to discuss anything related to technology, software development, or just to say hi!
 
+✨ Building today for a better tomorrow... ✨
 ---
 
 
