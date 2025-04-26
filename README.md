@@ -32,14 +32,28 @@
 
 ## 📈 GitHub Stats
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anilkushwaha782000&show_icons=true&locale=en&theme=radical" alt="anilkushwaha782000" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anilkushwaha782000&theme=radical" alt="anilkushwaha782000" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilkushwaha782000&show_icons=true&locale=en&layout=compact&theme=radical" alt="anilkushwaha782000" /></p>
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
-  <img alt="snake eating my contributions" src="dist/github-contribution-grid-snake.svg">
-</picture>
+<div align="left">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=anilkushwaha782000&show_icons=true&locale=en&theme=radical" alt="anilkushwaha782000" height="200px"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilkushwaha782000&theme=radical" alt="anilkushwaha782000" height="200px"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anilkushwaha782000&show_icons=true&locale=en&layout=compact&theme=radical" alt="anilkushwaha782000" height="200px"/>
+
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
+    <img alt="snake eating my contributions" src="dist/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 
 ## 🔗 Links
 
@@ -62,7 +76,12 @@
 
 ## ✨ Building today for a better tomorrow... ✨
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilkushwaha782000" alt="anilkushwaha782000" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anilkushwaha782000&theme=radical&no-bg=true&margin-w=15&margin-h=15&row=1" alt="anilkushwaha782000" />
+  </a>
+</p>
+
 <br><br>
 
 ## 💬 Let's Connect!
