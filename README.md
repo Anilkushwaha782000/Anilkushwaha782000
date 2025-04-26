@@ -1,9 +1,11 @@
-👋 Hello, I'm Anil!
 
-Welcome to my GitHub!
+<h1 align="center">👋 Welcome to my GitHub Profile! 🚀</h1>
 
-I'm a Senior Software Design Engineer passionate about crafting modern, scalable, and responsive web applications.
-Here you'll find my projects, passions, and the skills I'm continuously sharpening to stay ahead in the tech world. 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Anil+Kushwaha;Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+React+%7C+Node.js;Spring+Boot+%7C+GraphQL+%7C+MongoDB;Building+Scalable+Modern+Apps!" alt="Typing SVG" />
+</p>
+
+<hr />
 
 
 ## 🚀 About Me
