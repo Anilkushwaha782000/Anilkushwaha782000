@@ -45,6 +45,13 @@ Here you'll find my projects, passions, and the skills I'm continuously sharpeni
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs logo" /></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode logo" /></code>
 
+### 🐍 Watch my contributions get eaten by a snake!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="dist/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📈 GitHub Stats
 
