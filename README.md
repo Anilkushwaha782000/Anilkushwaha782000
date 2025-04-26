@@ -35,11 +35,11 @@
 <div align="left">
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anilkushwaha782000&show_icons=true&locale=en&theme=radical" alt="anilkushwaha782000" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anilkushwaha782000&show_icons=true&locale=en&theme=radical" alt="anilkushwaha782000" height="200px" width="350"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilkushwaha782000&theme=radical" alt="anilkushwaha782000" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilkushwaha782000&theme=radical" alt="anilkushwaha782000" height="200px" width="350"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anilkushwaha782000&show_icons=true&locale=en&layout=compact&theme=radical" alt="anilkushwaha782000" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anilkushwaha782000&show_icons=true&locale=en&layout=compact&theme=radical" alt="anilkushwaha782000" height="200px" width="350"/>
 
 </div>
 
